@@ -51,4 +51,4 @@ This project is a simple Car Dashboard with built in pure c using the window 32 
 
     When you close the program, a trip log is saved in car_log.txt.
 
-**All the GUI with WIN32 API is maded by the ChatGPT except C.**
+**All the GUI with WIN32 API is maded by the ChatGPT except C Logic.**
